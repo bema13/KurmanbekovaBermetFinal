@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kurmanbekova_Bermet_DHT-1_Final</string>
+    <string name="home">Home</string>
+    <string name="information">21-42-34, Banjara Hills, Hyder....</string>
+    <string name="search">Search food nearby</string>
+    <string name="select">Select Preferences</string>
+    <string name="users">For multiple users.</string>
+    <string name="multiple">You can now order from multiple restaurants at the same time!</string>
+    <string name="set"><![CDATA[> SET THEM NOW]]></string>
+    <string name="preferences">Your Preferences</string>
+    <string name="order">Now order user specific food directly below!</string>
+    <string name="edit">Edit</string>
+    <string name="user_1">User 1</string>
+</resources>
